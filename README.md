@@ -1,5 +1,10 @@
 # Forge
 
+NOTE: THIS BOWER VERSION IS ONLY A BUILT VERSION OF THE ORIGINAL LIBRARY. I NEEDED IT FOR MY OWN PROJECT AND THE BOWER-FORGE PROJECT HAS BEEN ABANDONED 2 YEARS AGO.
+IF YOU NEED A NEWER VERSION AND I DIDN'T UPDATE JUST OPEN A PULL REQUEST AND I'LL TRY TO UPDATE WITHIN A DAY.
+
+Note to the original owner: If you will include the built version in your package (which I think is the correct node philosophy) I'll be happy to advice to use your instead of this fork.
+
 [![npm package](https://nodei.co/npm/node-forge.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-forge/)
 
 [![Build status](https://img.shields.io/travis/digitalbazaar/forge.svg?branch=master)](https://travis-ci.org/digitalbazaar/forge)

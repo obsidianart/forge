@@ -1,14 +1,18 @@
 {
-  "name": "node-forge",
-  "version": "0.6.46-dev",
-  "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
+  "name": "forge.bower",
+  "version": "0.6.45",
+  "description": "Porting of forge for bower",
   "homepage": "https://github.com/digitalbazaar/forge",
   "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "http://digitalbazaar.com/"
+    "name": "Stefano Solinas",
+    "email": "obsidianart@gmail.com",
+    "url": "http://www.obsidianart.com"
   },
   "contributors": [
+    {
+      "name": "Stefano Solinas",
+      "email": "obsidianart@gmail.com"
+    },
     {
       "name": "Dave Longley",
       "email": "dlongley@digitalbazaar.com"
