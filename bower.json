@@ -1,6 +1,6 @@
 {
   "name": "forge-bower",
-  "version": "0.6.45",
+  "version": "0.6.451",
   "description": "Porting of forge for bower",
   "moduleType": ["amd"],
   "authors": [
